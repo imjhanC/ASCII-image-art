@@ -44,6 +44,3 @@ This web-based tool allows users to upload an image and instantly transform it i
 - Best results with high-contrast images.
 - Use **Ultra** character set for the most detailed output.
 - Narrower widths produce more stylized effects; wider widths yield more realism.
-
-## 📂 Folder Structure
-
