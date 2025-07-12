@@ -1,5 +1,7 @@
 # 🖼️ Ultra-Detailed ASCII Art Converter 🎨
 
+![Preview of Ultra-Detailed ASCII Art Converter](index.png)
+
 Turn images into high-fidelity **ASCII art** with fine control over **width, brightness, contrast**, and **character density** — all from your browser!
 
 This web-based tool allows users to upload an image and instantly transform it into ultra-detailed ASCII art using various character sets and styling options. Built with only **HTML, CSS, and JavaScript**, it's fast, responsive, and visually inspired by terminal aesthetics with glowing green effects.
@@ -35,10 +37,7 @@ This web-based tool allows users to upload an image and instantly transform it i
 
 - JPEG
 - PNG
-- GIF
-- BMP
-- WebP
-
+  
 ## 💡 Tips
 
 - Best results with high-contrast images.
